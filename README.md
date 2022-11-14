@@ -1,6 +1,7 @@
 ## Olá!  Me chamo Alejandro Souza
 - 🤔 Atualmente não tenho nenhuma formação T^T
 - 🤯 Estou cursando Java☕ e Técnico em WEB😶‍🌫️
+- 🦾 Trabalhando num pequeno projeto de jogo
 <div align="center">
   <a href="https://github.com/kanashizin">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kanashizin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
